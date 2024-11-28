@@ -1,0 +1,22 @@
+{"properties": [
+  {
+    "name": "gateway.ip",
+    "type": "java.lang.String",
+    "description": "For use in 'WebSecurity.java' for allowing specified ip"
+  },
+  {
+    "name": "token.expiration_time",
+    "type": "java.lang.String",
+    "description": "JWT Token field for 'token.expiration_time'"
+  },
+  {
+    "name": "token.secret",
+    "type": "java.lang.String",
+    "description": "JWT Token Secret random generate for encoding uses"
+  },
+  {
+    "name": "login.url.path",
+    "type": "java.lang.String",
+    "description": "Set the path for authentication login"
+  }
+]}
