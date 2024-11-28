@@ -1,1 +1,0 @@
-# PhotoApp Web Services

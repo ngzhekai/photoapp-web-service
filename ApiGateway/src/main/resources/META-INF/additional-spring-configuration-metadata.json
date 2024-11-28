@@ -1,5 +1,0 @@
-{"properties": [{
-  "name": "token.secret",
-  "type": "java.lang.String",
-  "description": "JWT Token Secret for encoding and it should be the same as the token.secret in PhotoAppApiUsers"
-}]}
